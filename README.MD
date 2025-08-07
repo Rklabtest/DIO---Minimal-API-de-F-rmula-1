@@ -13,5 +13,5 @@ Projeto criado com Node.js e Fastify que consiste em uma API mínima que retorna
 
 - Baixe o projeto do repositório;
 - Instale as dependências usando `npm install`;
-- Execute usando `npm run dev:start`;
+- Execute usando `npm run start:dev`;
 - Utilize os endpoints indicados para acessar os resultados.
